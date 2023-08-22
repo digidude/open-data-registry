@@ -17,7 +17,7 @@ Description: |
   “Trees,” “Crops,” “Flooded Vegetation,” and “Rangeland”.
   This updated time series of annual global maps is also re-aligned to match the ESA UTM tiling grid for Sentinel-2 imagery. 
 
-Documentation: https://www.impactobservatory.com/global_maps
+Documentation: https://docs.impactobservatory.com/lulc-maps/maps-for-good.html
 Contact: hello@impactobservatory.com
 ManagedBy: "[Impact Observatory](https://www.impactobservatory.com/)"
 UpdateFrequency: A new year is made available annually, each January. A new time series was provided July 2023 to reduce anomalous change.  
@@ -42,7 +42,7 @@ Resources:
     Region: us-west-2
     Type: S3 Bucket
     Explore:
-    - '[STAC 1.0.0 endpoint](https://api.impactobservatory.com/stac-aws/collections/io-annual-lulc)'
+    - '[STAC 1.0.0 endpoint](https://api.impactobservatory.com/stac-aws)'
 DataAtWork:
   Tools & Applications:
     - Title: View the dataset on UN Biodiversity Lab Map Viewer
@@ -55,7 +55,7 @@ DataAtWork:
     - Title: Mapping the world with unmatched frequency
       URL: https://medium.com/impactobservatoryinc/mapping-the-world-with-unmatched-frequency-54a83527f138
       AuthorName: Mark Hannel
-    - Title: '‘Very Dire’: Devastated by Floods, Pakistan Faces Looming Food Crisis'
+    - Title: Very Dire: Devastated by Floods, Pakistan Faces Looming Food Crisis
       URL: https://www.nytimes.com/2022/09/11/world/asia/pakistan-floods-food-crisis.html
       AuthorName: New York Times
     - Title: These maps from satellite data show how much Earth has changed in only five years
